@@ -1,0 +1,426 @@
+[
+    {
+      "id": "mc_001",
+      "name": "Juan Carlos",
+      "cuisine": "Mexican",
+      "years_of_experience": 15,
+      "number_of_recipes": 40,
+      "likes": 1200,
+      "picture": "https://example.com/chefs/juan-carlos.jpg",
+      "bio": "Juan Carlos is a Mexican chef who grew up in Mexico City. He learned to cook traditional Mexican dishes from his grandmother and has been cooking for over 15 years. He specializes in dishes like chiles en nogada, pozole, and mole.",
+      "recipes": [
+        {
+          "id": "jc_01",
+          "name": "Chiles en Nogada",
+          "ingredients": [
+            "Poblano Peppers",
+            "Ground Beef",
+            "Apple",
+            "Peach",
+            "Walnuts",
+            "Almonds",
+            "Cinnamon",
+            "Cloves"
+          ],
+          "method": "1. Roast the poblano peppers until the skin blisters. 2. Peel the skin off the peppers and remove the seeds. 3. Stuff the peppers with ground beef, diced apple, diced peach, and chopped walnuts and almonds. 4. Fry the stuffed peppers until golden brown. 5. For the nogada sauce, blend walnuts, almonds, cinnamon, cloves, and cream until smooth. 6. Pour the sauce over the stuffed peppers and garnish with pomegranate seeds and parsley.",
+          "rating": 4.7,
+          "favorite": false
+        },
+        {
+          "id": "jc_02",
+          "name": "Pozole",
+          "ingredients": [
+            "Pork Shoulder",
+            "Hominy",
+            "Garlic",
+            "Onion",
+            "Cabbage",
+            "Radish",
+            "Lime",
+            "Oregano"
+          ],
+          "method": "1. Boil the pork shoulder with garlic and onion until tender. 2. Remove the pork from the pot and shred it. 3. Add hominy to the pot and simmer for 30 minutes. 4. Add the shredded pork back to the pot and season with oregano. 5. Serve hot with shredded cabbage, sliced radish, lime wedges, and tostadas.",
+          "rating": 4.2,
+          "favorite": true
+        },
+        {
+          "id": "jc_03",
+          "name": "Mole",
+          "ingredients": [
+            "Dried Chiles",
+            "Almonds",
+            "Raisins",
+            "Tomatoes",
+            "Onion",
+            "Garlic",
+            "Chocolate",
+            "Cinnamon"
+          ],
+          "method": "1. Toast dried chiles in a dry skillet until fragrant. 2. Soak the chiles in hot water for 30 minutes. 3. Blend the soaked chiles with almonds, raisins, tomatoes, onion, garlic, and spices until smooth. 4. Fry the sauce in a pot until it darkens in color. 5. Add chicken broth and simmer for 30 minutes. 6. Add chocolate and stir until melted. 7. Serve over chicken, pork, or enchiladas.",
+          "rating": 4.5,
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "id": "mc_002",
+      "name": "Gabriela Cámara",
+      "cuisine": "Mexican",
+      "years_of_experience": 20,
+      "number_of_recipes": 4,
+      "likes": 120,
+      "picture": "https://example.com/gabriela-camara.jpg",
+      "bio": "Gabriela Cámara is a Mexican chef, restaurateur, and cookbook author. She is known for her innovative and contemporary approach to Mexican cuisine.",
+      "recipes": [
+        {
+          "id": "gc_01",
+          "name": "Enchiladas",
+          "ingredients": [
+            "corn tortillas",
+            "shredded chicken",
+            "enchilada sauce",
+            "cheddar cheese",
+            "sour cream"
+          ],
+          "method": "1. Heat the tortillas in a dry pan or in the oven. 2. Fill each tortilla with shredded chicken and roll up. 3. Pour the enchilada sauce over the tortillas and top with shredded cheddar cheese. 4. Bake in the oven until the cheese is melted and bubbly. 5. Serve with a dollop of sour cream.",
+          "rating": 4.5,
+          "is_favorite": false
+        },
+        {
+          "id": "gc_02",
+          "name": "Tacos al Pastor",
+          "ingredients": [
+            "pork shoulder",
+            "achiote paste",
+            "pineapple",
+            "corn tortillas",
+            "cilantro"
+          ],
+          "method": "1. Marinate the pork shoulder in achiote paste and other spices. 2. Roast the pork on a spit with a pineapple on top. 3. Slice the pork and pineapple and serve on warm corn tortillas. 4. Garnish with fresh cilantro.",
+          "rating": 4.8,
+          "is_favorite": true
+        },
+        {
+          "id": "gc_03",
+          "name": "Guacamole",
+          "ingredients": [
+            "avocados",
+            "lime juice",
+            "red onion",
+            "jalapeno pepper",
+            "cilantro"
+          ],
+          "method": "1. Mash the avocados in a bowl with lime juice. 2. Add finely chopped red onion and jalapeno pepper. 3. Mix in chopped cilantro. 4. Season with salt and pepper to taste.",
+          "rating": 4.7,
+          "is_favorite": true
+        },
+        {
+          "id": "gc_04",
+          "name": "Chiles Rellenos",
+          "ingredients": [
+            "poblano peppers",
+            "ground beef",
+            "onion",
+            "garlic",
+            "tomato sauce"
+          ],
+          "method": "1. Roast and peel the poblano peppers. 2. Stuff each pepper with a mixture of ground beef, onion, and garlic. 3. Top with tomato sauce and bake until heated through.",
+          "rating": 4.2,
+          "is_favorite": false
+        }
+      ]
+    },
+    {
+      "id": "mc_003",
+      "name": "Enrique Olvera",
+      "cuisine": "Mexican",
+      "years_of_experience": 20,
+      "number_of_recipes": 30,
+      "likes": 2000,
+      "picture": "https://example.com/chef1.jpg",
+      "bio": "Enrique Olvera is a Mexican chef and owner of Pujol, widely regarded as one of the best restaurants in Mexico and Latin America. He is known for his innovative interpretations of traditional Mexican cuisine.",
+      "recipes": [
+        {
+          "id": "eo_01",
+          "name": "Mole Negro",
+          "ingredients": [
+            "dried ancho chiles",
+            "dried pasilla chiles",
+            "dried mulato chiles",
+            "black peppercorns",
+            "coriander seeds",
+            "cumin seeds",
+            "sesame seeds",
+            "tortillas",
+            "lard",
+            "raisins",
+            "almonds",
+            "walnuts",
+            "plantains",
+            "tomatoes",
+            "garlic",
+            "onion",
+            "chicken broth",
+            "unsweetened chocolate",
+            "sugar",
+            "salt"
+          ],
+          "cooking_method": "Toast the chiles, spices, and tortillas, then blend with the other ingredients to make a smooth sauce. Cook the sauce with chicken broth and season with salt and sugar. Serve with chicken or other meats.",
+          "rating": 4.5,
+          "is_favorite": true
+        },
+        {
+          "id": "eo_02",
+          "name": "Carnitas",
+          "ingredients": [
+            "pork shoulder",
+            "orange",
+            "garlic",
+            "cinnamon",
+            "bay leaves",
+            "lard",
+            "salt",
+            "tortillas",
+            "cilantro",
+            "onion",
+            "lime wedges"
+          ],
+          "cooking_method": "Slow-cook the pork in lard with orange, garlic, cinnamon, and bay leaves until tender. Shred the pork and fry in lard until crispy. Serve with tortillas, cilantro, onion, and lime wedges.",
+          "rating": 4.2,
+          "is_favorite": false
+        },
+        {
+          "id": "eo_03",
+          "name": "Tacos al Pastor",
+          "ingredients": [
+            "pork shoulder",
+            "achiote paste",
+            "pineapple",
+            "onion",
+            "cilantro",
+            "tortillas"
+          ],
+          "cooking_method": "Marinate the pork in achiote paste and pineapple overnight, then roast on a spit or in the oven. Serve on tortillas with grilled pineapple, onion, and cilantro.",
+          "rating": 4.7,
+          "is_favorite": true
+        }
+      ]
+    },
+    {
+      "id": "mc_004",
+      "name": "Alex Ruiz",
+      "cuisine": "Mexican",
+      "years_of_experience": 15,
+      "number_of_recipes": 20,
+      "likes": 1200,
+      "picture": "https://example.com/chef2.jpg",
+      "bio": "Alex Ruiz is a Mexican chef known for his modern take on traditional Mexican cuisine. He has worked at various acclaimed restaurants in Mexico and the United States, and currently runs his own restaurant, Casa Oaxaca, in Oaxaca City.",
+      "recipes": [
+        {
+          "id": "ar_01",
+          "name": "Chiles en Nogada",
+          "ingredients": [
+            "poblano peppers",
+            "ground beef",
+            "diced onion",
+            "diced tomato",
+            "raisins",
+            "slivered almonds",
+            "ground cinnamon",
+            "ground clove",
+            "ground black pepper",
+            "salt",
+            "garlic",
+            "plantains",
+            "peeled and diced apple",
+            "peeled and diced pear",
+            "peeled and diced peach",
+            "crumbled queso fresco",
+            "pomegranate seeds",
+            "heavy cream",
+            "walnuts",
+            "milk",
+            "bread",
+            "egg yolks"
+          ],
+          "cooking_method": "Roast and peel the poblano peppers, then stuff them with a mixture of ground beef, onion, tomato, raisins, almonds, spices, and fruit. Top with a creamy walnut sauce and garnish with pomegranate seeds and parsley.",
+          "rating": 4.8,
+          "is_favorite": true
+        },
+        {
+          "id": "ar_02",
+          "name": "Tlayudas",
+          "ingredients": [
+            "large corn tortillas",
+            "black beans",
+            "quesillo cheese",
+            "chorizo",
+            "avocado",
+            "salsa",
+            "cilantro"
+          ],
+          "cooking_method": "Grill the tortillas, then spread with black beans and top with quesillo cheese, sliced chorizo, avocado, and salsa. Fold in half and grill until cheese is melted. Garnish with cilantro.",
+          "rating": 4.5,
+          "is_favorite": false
+        },
+        {
+          "id": "ar_03",
+          "name": "Mole Amarillo",
+          "ingredients": [
+            "dried guajillo chiles",
+            "dried chilhuacle amarillo chiles",
+            "dried ancho chiles",
+            "tomatillos",
+            "garlic",
+            "onion",
+            "cinnamon stick",
+            "dried oregano",
+            "black pepper",
+            "salt",
+            "chicken broth",
+            "corn tortillas",
+            "pumpkin seeds",
+            "sliced almonds",
+            "dried prunes"
+          ],
+          "cooking_method": "Toast the chiles, tomatillos, garlic, onion, and spices, then blend with chicken broth to make a sauce. Add pumpkin seeds, almonds, and prunes and simmer until thickened. Serve with chicken or other meats and garnish with fresh herbs.",
+          "rating": 4.2,
+          "is_favorite": false
+        }
+      ]
+    },
+    {
+      "id": "mc_005",
+      "name": "Patricia Quintana",
+      "years_of_experience": 30,
+      "number_of_recipes": 50,
+      "likes": 3000,
+      "cuisine": "Mexican",
+      "bio": "Patricia Quintana was a Mexican chef, restaurateur, and cookbook author. She is known for her research and promotion of traditional Mexican cuisine, and her restaurant Izote was considered one of the best in Mexico City.",
+      "picture": "https://example.com/chef2.jpg",
+      "recipes": [
+        {
+          "id": "pq_01",
+          "name": "Chiles en Nogada",
+          "ingredients": [
+            "poblano peppers",
+            "ground beef",
+            "onion",
+            "garlic",
+            "apple",
+            "pear",
+            "peach",
+            "raisins",
+            "almonds",
+            "pecans",
+            "plantains",
+            "cinnamon",
+            "clove",
+            "black pepper",
+            "bay leaves",
+            "milk",
+            "goat cheese",
+            "sugar",
+            "salt",
+            "egg whites"
+          ],
+          "cooking_method": "Roast and peel the poblano peppers, then stuff with a mixture of ground beef, onion, garlic, and fruits. Top with a creamy walnut sauce made with goat cheese, milk, sugar, and egg whites. Garnish with pomegranate seeds and parsley.",
+          "rating": 4.9,
+          "is_favorite": true
+        },
+        {
+          "id": "pq_02",
+          "name": "Pescado a la Talla",
+          "ingredients": [
+            "whole fish",
+            "achiote paste",
+            "sour orange juice",
+            "garlic",
+            "salt"
+          ],
+          "cooking_method": "Marinate the fish with achiote paste, sour orange juice, garlic, and salt. Grill or roast the fish until cooked through. Serve with tortillas, salsa, and lime wedges.",
+          "rating": 4.6,
+          "is_favorite": true
+        },
+        {
+          "id": "pq_03",
+          "name": "Sopa Azteca",
+          "ingredients": [
+            "tomatoes",
+            "onion",
+            "garlic",
+            "chicken broth",
+            "pasilla chiles",
+            "epazote",
+            "tortilla chips",
+            "avocado",
+            "cheese",
+            "sour cream"
+          ],
+          "cooking_method": "Roast the tomatoes, onion, and garlic, then blend with chicken broth and pasilla chiles. Add epazote and simmer until flavors are combined. Serve with tortilla chips, avocado, cheese, and sour cream.",
+          "rating": 4.3,
+          "is_favorite": false
+        }
+      ]
+    },
+    {
+      "id": "mc_006",
+      "name": "Alex Stupak",
+      "cuisine": "Mexican",
+      "years_of_experience": 15,
+      "number_of_recipes": 25,
+      "likes": 1500,
+      "picture": "https://example.com/chef3.jpg",
+      "bio": "Alex Stupak is an American chef who specializes in modern Mexican cuisine. He is the owner and head chef of Empellón, a group of Mexican-inspired restaurants in New York City. Prior to opening his own restaurants, Stupak worked at several notable restaurants including Alinea and wd~50.",
+      "recipes": [
+        {
+          "id": "as_01",
+          "name": "Chilaquiles Verdes",
+          "ingredients": [
+            "tortilla chips",
+            "tomatillos",
+            "serrano chiles",
+            "onion",
+            "garlic",
+            "cilantro",
+            "lime juice",
+            "sour cream",
+            "queso fresco"
+          ],
+          "cooking_method": "Blend tomatillos, chiles, onion, garlic, cilantro, and lime juice to make a salsa. Toss the tortilla chips in the salsa and top with sour cream and queso fresco.",
+          "rating": 4.1,
+          "is_favorite": true
+        },
+        {
+          "id": "as_02",
+          "name": "Taco al Pastor",
+          "ingredients": [
+            "pork shoulder",
+            "achiote paste",
+            "pineapple",
+            "onion",
+            "cilantro",
+            "tortillas"
+          ],
+          "cooking_method": "Marinate the pork in achiote paste and pineapple overnight, then roast on a spit or in the oven. Serve on tortillas with grilled pineapple, onion, and cilantro.",
+          "rating": 4.8,
+          "is_favorite": true
+        },
+        {
+          "id": "as_03",
+          "name": "Elote",
+          "ingredients": [
+            "corn",
+            "mayonnaise",
+            "cotija cheese",
+            "lime juice",
+            "chili powder",
+            "cilantro"
+          ],
+          "cooking_method": "Grill the corn, then slather with mayonnaise and sprinkle with cotija cheese, lime juice, chili powder, and cilantro.",
+          "rating": 4.2,
+          "is_favorite": false
+        }
+      ]
+    }
+  ]
