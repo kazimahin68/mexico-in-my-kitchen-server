@@ -6,7 +6,7 @@
       "years_of_experience": 15,
       "number_of_recipes": 40,
       "likes": 1200,
-      "picture": "https://example.com/chefs/juan-carlos.jpg",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=996&t=st=1683147226~exp=1683147826~hmac=f8c17ca939587fdd9bf60878d2cc1b4cdf11a74d174b1ed434ea799424c36231",
       "bio": "Juan Carlos is a Mexican chef who grew up in Mexico City. He learned to cook traditional Mexican dishes from his grandmother and has been cooking for over 15 years. He specializes in dishes like chiles en nogada, pozole, and mole.",
       "recipes": [
         {
@@ -69,7 +69,7 @@
       "years_of_experience": 20,
       "number_of_recipes": 4,
       "likes": 120,
-      "picture": "https://example.com/gabriela-camara.jpg",
+      "picture": "https://img.freepik.com/free-photo/close-up-chef-cooking-restaurant-kitchen_329181-16130.jpg?w=996&t=st=1683147391~exp=1683147991~hmac=577275c58d450ef0befe8fd84e1498ab8129e9b3624d9e24ae75de57d7141e80",
       "bio": "Gabriela Cámara is a Mexican chef, restaurateur, and cookbook author. She is known for her innovative and contemporary approach to Mexican cuisine.",
       "recipes": [
         {
@@ -137,7 +137,7 @@
       "years_of_experience": 20,
       "number_of_recipes": 30,
       "likes": 2000,
-      "picture": "https://example.com/chef1.jpg",
+      "picture": "https://img.freepik.com/free-photo/head-chef-adding-fresh-chopped-green-herbs-pan-while-cooking-gourmet-dish-restaurant-professional-kitchen-food-industry-workers-preparing-delicious-meal-using-organic-vegetables_482257-40135.jpg?w=996&t=st=1683147437~exp=1683148037~hmac=075135b9371d430e30aeb5db0198f8fb22cb752ce50a30afa44cfa58bb67d24f",
       "bio": "Enrique Olvera is a Mexican chef and owner of Pujol, widely regarded as one of the best restaurants in Mexico and Latin America. He is known for his innovative interpretations of traditional Mexican cuisine.",
       "recipes": [
         {
@@ -213,7 +213,7 @@
       "years_of_experience": 15,
       "number_of_recipes": 20,
       "likes": 1200,
-      "picture": "https://example.com/chef2.jpg",
+      "picture": "https://img.freepik.com/free-photo/cook-putting-boiled-egg-plate-with-salad_23-2148040234.jpg?w=996&t=st=1683147614~exp=1683148214~hmac=08835a15457a708bd9c295706c1ce1d5f6806b1b2bace336b2fa63b06a2d4e1b",
       "bio": "Alex Ruiz is a Mexican chef known for his modern take on traditional Mexican cuisine. He has worked at various acclaimed restaurants in Mexico and the United States, and currently runs his own restaurant, Casa Oaxaca, in Oaxaca City.",
       "recipes": [
         {
@@ -297,7 +297,7 @@
       "likes": 3000,
       "cuisine": "Mexican",
       "bio": "Patricia Quintana was a Mexican chef, restaurateur, and cookbook author. She is known for her research and promotion of traditional Mexican cuisine, and her restaurant Izote was considered one of the best in Mexico City.",
-      "picture": "https://example.com/chef2.jpg",
+      "picture": "https://img.freepik.com/free-photo/young-bearded-man-his-work-place-cooking-vegetables_496169-93.jpg?w=996&t=st=1683147299~exp=1683147899~hmac=0ac727ce23d6ede89a0cb85c5b238808876106a9cce9b94b4a4bef52b6ad5d8a",
       "recipes": [
         {
           "id": "pq_01",
@@ -370,7 +370,7 @@
       "years_of_experience": 15,
       "number_of_recipes": 25,
       "likes": 1500,
-      "picture": "https://example.com/chef3.jpg",
+      "picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen-holding-plate-food_23-2149646274.jpg?w=996&t=st=1683147562~exp=1683148162~hmac=8ab32cbcba1df8dde24eff18259001a6eed0345627dc8c16cee2235244dfb70c",
       "bio": "Alex Stupak is an American chef who specializes in modern Mexican cuisine. He is the owner and head chef of Empellón, a group of Mexican-inspired restaurants in New York City. Prior to opening his own restaurants, Stupak worked at several notable restaurants including Alinea and wd~50.",
       "recipes": [
         {
