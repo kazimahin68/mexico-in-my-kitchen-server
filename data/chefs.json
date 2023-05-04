@@ -22,7 +22,9 @@
             "Cinnamon",
             "Cloves"
           ],
+          "photo": "https://img.freepik.com/free-photo/freshly-grilled-beef-vegetable-taco-plate-generative-ai_188544-8038.jpg?w=1380&t=st=1683213168~exp=1683213768~hmac=0e35a2f618593409a109bb3fda433ba1ec00db7ae40f8322e846364c143460e5",
           "method": "1. Roast the poblano peppers until the skin blisters. 2. Peel the skin off the peppers and remove the seeds. 3. Stuff the peppers with ground beef, diced apple, diced peach, and chopped walnuts and almonds. 4. Fry the stuffed peppers until golden brown. 5. For the nogada sauce, blend walnuts, almonds, cinnamon, cloves, and cream until smooth. 6. Pour the sauce over the stuffed peppers and garnish with pomegranate seeds and parsley.",
+          "about" : "Chiles en Nogada is a traditional Mexican dish that is typically served during the months of August and September. The dish consists of poblano peppers that are stuffed with a mixture of ground meat, fruits, and spices, and then covered in a creamy walnut sauce and topped with pomegranate seeds and parsley.",
           "rating": 4.7,
           "favorite": false
         },
@@ -97,7 +99,9 @@
             "cilantro"
           ],
           "method": "1. Marinate the pork shoulder in achiote paste and other spices. 2. Roast the pork on a spit with a pineapple on top. 3. Slice the pork and pineapple and serve on warm corn tortillas. 4. Garnish with fresh cilantro.",
-          "rating": 4.8,
+          "photo": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14221.jpg?w=1380&t=st=1683213249~exp=1683213849~hmac=1c529575301f95b9b18b84681b29b3f37eea65296a13bb6cbfb94563550bf877",
+          "about": "Tacos al Pastor is a popular Mexican dish that originated in central Mexico. The dish is made with thin slices of marinated pork that are slowly cooked on a spit called a trompo. The meat is shaved off the spit and served on small tortillas with diced onions, cilantro, and pineapple.",
+          "rating": 4.4,
           "is_favorite": true
         },
         {
@@ -111,6 +115,8 @@
             "cilantro"
           ],
           "method": "1. Mash the avocados in a bowl with lime juice. 2. Add finely chopped red onion and jalapeno pepper. 3. Mix in chopped cilantro. 4. Season with salt and pepper to taste.",
+          "photo": "https://img.freepik.com/free-photo/top-view-appetizing-pozole-bowl_23-2149248631.jpg?w=1380&t=st=1683213299~exp=1683213899~hmac=a1abd978827b1aa0600932b7b8d0aaefd7b8c37fb5b099af0f324e8b5647f0cb",
+          "about": "Guacamole is a popular Mexican dish that is made from mashed avocado, onion, tomato, cilantro, lime juice, and salt. It is often served as a dip with tortilla chips or as a condiment for tacos, burritos, and other Mexican dishes.Avocados are the star ingredient of guacamole and are known for their creamy texture and mild, nutty flavor. The other ingredients in guacamole add flavor and texture to the dish, with the onion and tomato adding crunch and the cilantro and lime juice adding freshness and tanginess.",
           "rating": 4.7,
           "is_favorite": true
         },
@@ -201,6 +207,8 @@
             "tortillas"
           ],
           "cooking_method": "Marinate the pork in achiote paste and pineapple overnight, then roast on a spit or in the oven. Serve on tortillas with grilled pineapple, onion, and cilantro.",
+          "photo": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14221.jpg?w=1380&t=st=1683213249~exp=1683213849~hmac=1c529575301f95b9b18b84681b29b3f37eea65296a13bb6cbfb94563550bf877",
+          "about" : "Tacos al Pastor is a popular Mexican dish that originated in central Mexico. The dish is made with thin slices of marinated pork that are slowly cooked on a spit called a trompo. The meat is shaved off the spit and served on small tortillas with diced onions, cilantro, and pineapple. The marinade used for Tacos al Pastor typically includes a variety of spices, such as achiote, garlic, and cumin, as well as pineapple juice, which helps to tenderize the meat and gives it a slightly sweet flavor. The addition of pineapple to the tacos also helps to balance the spiciness of the meat.",
           "rating": 4.7,
           "is_favorite": true
         }
@@ -244,6 +252,8 @@
             "egg yolks"
           ],
           "cooking_method": "Roast and peel the poblano peppers, then stuff them with a mixture of ground beef, onion, tomato, raisins, almonds, spices, and fruit. Top with a creamy walnut sauce and garnish with pomegranate seeds and parsley.",
+          "photo": "https://img.freepik.com/free-photo/freshly-grilled-beef-vegetable-taco-plate-generative-ai_188544-8038.jpg?w=1380&t=st=1683213168~exp=1683213768~hmac=0e35a2f618593409a109bb3fda433ba1ec00db7ae40f8322e846364c143460e5",
+          "about": "Chiles en Nogada is a traditional Mexican dish that is typically served during the months of August and September. The dish consists of poblano peppers that are stuffed with a mixture of ground meat, fruits, and spices, and then covered in a creamy walnut sauce and topped with pomegranate seeds and parsley.",
           "rating": 4.8,
           "is_favorite": true
         },
@@ -325,6 +335,8 @@
             "egg whites"
           ],
           "cooking_method": "Roast and peel the poblano peppers, then stuff with a mixture of ground beef, onion, garlic, and fruits. Top with a creamy walnut sauce made with goat cheese, milk, sugar, and egg whites. Garnish with pomegranate seeds and parsley.",
+          "photo": "https://img.freepik.com/free-photo/freshly-grilled-beef-vegetable-taco-plate-generative-ai_188544-8038.jpg?w=1380&t=st=1683213168~exp=1683213768~hmac=0e35a2f618593409a109bb3fda433ba1ec00db7ae40f8322e846364c143460e5",
+          "about": "Chiles en Nogada is a traditional Mexican dish that is typically served during the months of August and September. The dish consists of poblano peppers that are stuffed with a mixture of ground meat, fruits, and spices, and then covered in a creamy walnut sauce and topped with pomegranate seeds and parsley.",
           "rating": 4.9,
           "is_favorite": true
         },
@@ -339,6 +351,8 @@
             "salt"
           ],
           "cooking_method": "Marinate the fish with achiote paste, sour orange juice, garlic, and salt. Grill or roast the fish until cooked through. Serve with tortillas, salsa, and lime wedges.",
+          "photo": "https://img.freepik.com/free-photo/roasted-fish-garnished-with-lemon-slices-served-with-vegetables_140725-1413.jpg?w=1380&t=st=1683213528~exp=1683214128~hmac=def6253fd58278094c6cc6d565d9e7012073cc46273f486ee342b0c40df091d7",
+          "about": "Pescado a la Talla is a traditional Mexican dish that originated in the state of Guerrero. The dish consists of a whole fish that is butterflied and marinated in a flavorful mixture of spices, herbs, and chili peppers, before being grilled or roasted over an open flame. The marinade used for Pescado a la Talla typically includes a variety of ingredients, such as garlic, oregano, cumin, and chili peppers, which give the fish a spicy and smoky flavor. The fish is often served with a side of rice, beans, and fresh tortillas.",
           "rating": 4.6,
           "is_favorite": true
         },
@@ -403,6 +417,8 @@
             "tortillas"
           ],
           "cooking_method": "Marinate the pork in achiote paste and pineapple overnight, then roast on a spit or in the oven. Serve on tortillas with grilled pineapple, onion, and cilantro.",
+          "photo": "https://img.freepik.com/free-photo/top-view-delicious-tacos-with-meat_23-2148750428.jpg?w=1380&t=st=1683216407~exp=1683217007~hmac=9c8bfe44b2dbff045abfc227b7568aa2cc3d91a1559b73e8d7c72bd583fb2b9c",
+          "about": "Pescado a la Talla is a traditional Mexican dish that originated in the state of Guerrero. The dish consists of a whole fish that is butterflied and marinated in a flavorful mixture of spices, herbs, and chili peppers, before being grilled or roasted over an open flame. The marinade used for Pescado a la Talla typically includes a variety of ingredients, such as garlic, oregano, cumin, and chili peppers, which give the fish a spicy and smoky flavor. The fish is often served with a side of rice, beans, and fresh tortillas.",
           "rating": 4.8,
           "is_favorite": true
         },
