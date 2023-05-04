@@ -171,7 +171,7 @@
             "sugar",
             "salt"
           ],
-          "cooking_method": "Toast the chiles, spices, and tortillas, then blend with the other ingredients to make a smooth sauce. Cook the sauce with chicken broth and season with salt and sugar. Serve with chicken or other meats.",
+          "method": "Toast the chiles, spices, and tortillas, then blend with the other ingredients to make a smooth sauce. Cook the sauce with chicken broth and season with salt and sugar. Serve with chicken or other meats.",
           "rating": 4.5,
           "is_favorite": true
         },
@@ -191,7 +191,7 @@
             "onion",
             "lime wedges"
           ],
-          "cooking_method": "Slow-cook the pork in lard with orange, garlic, cinnamon, and bay leaves until tender. Shred the pork and fry in lard until crispy. Serve with tortillas, cilantro, onion, and lime wedges.",
+          "method": "Slow-cook the pork in lard with orange, garlic, cinnamon, and bay leaves until tender. Shred the pork and fry in lard until crispy. Serve with tortillas, cilantro, onion, and lime wedges.",
           "rating": 4.2,
           "is_favorite": false
         },
@@ -206,7 +206,7 @@
             "cilantro",
             "tortillas"
           ],
-          "cooking_method": "Marinate the pork in achiote paste and pineapple overnight, then roast on a spit or in the oven. Serve on tortillas with grilled pineapple, onion, and cilantro.",
+          "method": "Marinate the pork in achiote paste and pineapple overnight, then roast on a spit or in the oven. Serve on tortillas with grilled pineapple, onion, and cilantro.",
           "photo": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14221.jpg?w=1380&t=st=1683213249~exp=1683213849~hmac=1c529575301f95b9b18b84681b29b3f37eea65296a13bb6cbfb94563550bf877",
           "about" : "Tacos al Pastor is a popular Mexican dish that originated in central Mexico. The dish is made with thin slices of marinated pork that are slowly cooked on a spit called a trompo. The meat is shaved off the spit and served on small tortillas with diced onions, cilantro, and pineapple. The marinade used for Tacos al Pastor typically includes a variety of spices, such as achiote, garlic, and cumin, as well as pineapple juice, which helps to tenderize the meat and gives it a slightly sweet flavor. The addition of pineapple to the tacos also helps to balance the spiciness of the meat.",
           "rating": 4.7,
@@ -251,7 +251,7 @@
             "bread",
             "egg yolks"
           ],
-          "cooking_method": "Roast and peel the poblano peppers, then stuff them with a mixture of ground beef, onion, tomato, raisins, almonds, spices, and fruit. Top with a creamy walnut sauce and garnish with pomegranate seeds and parsley.",
+          "method": "Roast and peel the poblano peppers, then stuff them with a mixture of ground beef, onion, tomato, raisins, almonds, spices, and fruit. Top with a creamy walnut sauce and garnish with pomegranate seeds and parsley.",
           "photo": "https://img.freepik.com/free-photo/freshly-grilled-beef-vegetable-taco-plate-generative-ai_188544-8038.jpg?w=1380&t=st=1683213168~exp=1683213768~hmac=0e35a2f618593409a109bb3fda433ba1ec00db7ae40f8322e846364c143460e5",
           "about": "Chiles en Nogada is a traditional Mexican dish that is typically served during the months of August and September. The dish consists of poblano peppers that are stuffed with a mixture of ground meat, fruits, and spices, and then covered in a creamy walnut sauce and topped with pomegranate seeds and parsley.",
           "rating": 4.8,
@@ -269,7 +269,7 @@
             "salsa",
             "cilantro"
           ],
-          "cooking_method": "Grill the tortillas, then spread with black beans and top with quesillo cheese, sliced chorizo, avocado, and salsa. Fold in half and grill until cheese is melted. Garnish with cilantro.",
+          "method": "Grill the tortillas, then spread with black beans and top with quesillo cheese, sliced chorizo, avocado, and salsa. Fold in half and grill until cheese is melted. Garnish with cilantro.",
           "rating": 4.5,
           "is_favorite": false
         },
@@ -293,7 +293,7 @@
             "sliced almonds",
             "dried prunes"
           ],
-          "cooking_method": "Toast the chiles, tomatillos, garlic, onion, and spices, then blend with chicken broth to make a sauce. Add pumpkin seeds, almonds, and prunes and simmer until thickened. Serve with chicken or other meats and garnish with fresh herbs.",
+          "method": "Toast the chiles, tomatillos, garlic, onion, and spices, then blend with chicken broth to make a sauce. Add pumpkin seeds, almonds, and prunes and simmer until thickened. Serve with chicken or other meats and garnish with fresh herbs.",
           "rating": 4.2,
           "is_favorite": false
         }
@@ -334,7 +334,7 @@
             "salt",
             "egg whites"
           ],
-          "cooking_method": "Roast and peel the poblano peppers, then stuff with a mixture of ground beef, onion, garlic, and fruits. Top with a creamy walnut sauce made with goat cheese, milk, sugar, and egg whites. Garnish with pomegranate seeds and parsley.",
+          "method": "Roast and peel the poblano peppers, then stuff with a mixture of ground beef, onion, garlic, and fruits. Top with a creamy walnut sauce made with goat cheese, milk, sugar, and egg whites. Garnish with pomegranate seeds and parsley.",
           "photo": "https://img.freepik.com/free-photo/freshly-grilled-beef-vegetable-taco-plate-generative-ai_188544-8038.jpg?w=1380&t=st=1683213168~exp=1683213768~hmac=0e35a2f618593409a109bb3fda433ba1ec00db7ae40f8322e846364c143460e5",
           "about": "Chiles en Nogada is a traditional Mexican dish that is typically served during the months of August and September. The dish consists of poblano peppers that are stuffed with a mixture of ground meat, fruits, and spices, and then covered in a creamy walnut sauce and topped with pomegranate seeds and parsley.",
           "rating": 4.9,
@@ -350,7 +350,7 @@
             "garlic",
             "salt"
           ],
-          "cooking_method": "Marinate the fish with achiote paste, sour orange juice, garlic, and salt. Grill or roast the fish until cooked through. Serve with tortillas, salsa, and lime wedges.",
+          "method": "Marinate the fish with achiote paste, sour orange juice, garlic, and salt. Grill or roast the fish until cooked through. Serve with tortillas, salsa, and lime wedges.",
           "photo": "https://img.freepik.com/free-photo/roasted-fish-garnished-with-lemon-slices-served-with-vegetables_140725-1413.jpg?w=1380&t=st=1683213528~exp=1683214128~hmac=def6253fd58278094c6cc6d565d9e7012073cc46273f486ee342b0c40df091d7",
           "about": "Pescado a la Talla is a traditional Mexican dish that originated in the state of Guerrero. The dish consists of a whole fish that is butterflied and marinated in a flavorful mixture of spices, herbs, and chili peppers, before being grilled or roasted over an open flame. The marinade used for Pescado a la Talla typically includes a variety of ingredients, such as garlic, oregano, cumin, and chili peppers, which give the fish a spicy and smoky flavor. The fish is often served with a side of rice, beans, and fresh tortillas.",
           "rating": 4.6,
@@ -371,7 +371,7 @@
             "cheese",
             "sour cream"
           ],
-          "cooking_method": "Roast the tomatoes, onion, and garlic, then blend with chicken broth and pasilla chiles. Add epazote and simmer until flavors are combined. Serve with tortilla chips, avocado, cheese, and sour cream.",
+          "method": "Roast the tomatoes, onion, and garlic, then blend with chicken broth and pasilla chiles. Add epazote and simmer until flavors are combined. Serve with tortilla chips, avocado, cheese, and sour cream.",
           "rating": 4.3,
           "is_favorite": false
         }
@@ -401,7 +401,7 @@
             "sour cream",
             "queso fresco"
           ],
-          "cooking_method": "Blend tomatillos, chiles, onion, garlic, cilantro, and lime juice to make a salsa. Toss the tortilla chips in the salsa and top with sour cream and queso fresco.",
+          "method": "Blend tomatillos, chiles, onion, garlic, cilantro, and lime juice to make a salsa. Toss the tortilla chips in the salsa and top with sour cream and queso fresco.",
           "rating": 4.1,
           "is_favorite": true
         },
@@ -416,7 +416,7 @@
             "cilantro",
             "tortillas"
           ],
-          "cooking_method": "Marinate the pork in achiote paste and pineapple overnight, then roast on a spit or in the oven. Serve on tortillas with grilled pineapple, onion, and cilantro.",
+          "method": "Marinate the pork in achiote paste and pineapple overnight, then roast on a spit or in the oven. Serve on tortillas with grilled pineapple, onion, and cilantro.",
           "photo": "https://img.freepik.com/free-photo/top-view-delicious-tacos-with-meat_23-2148750428.jpg?w=1380&t=st=1683216407~exp=1683217007~hmac=9c8bfe44b2dbff045abfc227b7568aa2cc3d91a1559b73e8d7c72bd583fb2b9c",
           "about": "Pescado a la Talla is a traditional Mexican dish that originated in the state of Guerrero. The dish consists of a whole fish that is butterflied and marinated in a flavorful mixture of spices, herbs, and chili peppers, before being grilled or roasted over an open flame. The marinade used for Pescado a la Talla typically includes a variety of ingredients, such as garlic, oregano, cumin, and chili peppers, which give the fish a spicy and smoky flavor. The fish is often served with a side of rice, beans, and fresh tortillas.",
           "rating": 4.8,
@@ -433,7 +433,7 @@
             "chili powder",
             "cilantro"
           ],
-          "cooking_method": "Grill the corn, then slather with mayonnaise and sprinkle with cotija cheese, lime juice, chili powder, and cilantro.",
+          "method": "Grill the corn, then slather with mayonnaise and sprinkle with cotija cheese, lime juice, chili powder, and cilantro.",
           "rating": 4.2,
           "is_favorite": false
         }
